@@ -17,6 +17,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manjunathalokesh43-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathalokesh43-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathalokesh43-a11y" /> </p>
 
 - 🔭 I’m currently working on [30-Days-of-DevOps](https://github.com/manjunathalokesh43-a11y)
