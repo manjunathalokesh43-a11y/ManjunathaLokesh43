@@ -17,6 +17,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+- 👨‍💻 All of my projects are available at [https://github.com/manjunathalokesh43-a11y](https://github.com/manjunathalokesh43-a11y)  
+- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 📫 How to reach me **manjunathalokesh43@gmail.com**
+
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manjunathalokesh43-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
