@@ -56,10 +56,6 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathalokesh43-a11y&show_icons=true&locale=en&layout=compact" alt="manjunathalokesh43-a11y" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathalokesh43-a11y&show_icons=true&locale=en" alt="manjunathalokesh43-a11y" /></p>
-
 ---
 ### 🔥 GitHub Contribution Streak
 
