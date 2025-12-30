@@ -10,7 +10,7 @@
   <a href="https://github.com/manjunathalokesh43-a11y">
     <img src="https://img.shields.io/github/followers/manjunathalokesh43-a11y?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/ManjunathaLokesh">
+  <a href="https://www.linkedin.com/in/manjunatha-lokesh-728210382">
     <img src="https://img.shields.io/badge/LinkedIn-Manjunatha%20Lokesh-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
