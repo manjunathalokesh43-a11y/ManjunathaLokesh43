@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Manjunatha Lokesh</h1>
-<div align="center"> <img src="https://github.com/manjunathalokesh43-a11y/ManjunathaLokesh43/main/manjunathalokesh-banner.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/manjunathalokesh43-a11y/ManjunathaLokesh43/main/manjunathalokesh-banner.png"> </div>
 <h3 align="center">A passionate DevOps Engineer from India I Work in Corporate IT Sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathalokesh43-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathalokesh43-a11y" /> </p>
