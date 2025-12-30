@@ -17,25 +17,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manjunathalokesh43-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/manjunathalokesh43-a11y](https://github.com/manjunathalokesh43-a11y)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
 - 📫 How to reach me **manjunathalokesh43@gmail.com**
 
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manjunathalokesh43-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 🔭 I’m currently working on [30-Days-of-DevOps](https://github.com/manjunathalokesh43-a11y)
-
-- 🌱 I’m currently learning **DevSecOps and Cloud DevOps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/manjunathalokesh43-a11y](https://github.com/manjunathalokesh43-a11y)
-
-- 💬 Ask me about **DevOps Tools**
-
-- 📫 How to reach me **manjunathalokesh43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
