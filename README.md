@@ -1,8 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Manjunatha Lokesh</h1>
+
 <div align="center">
   <img src="https://github.com/manjunathalokesh43-a11y/ManjunathaLokesh43/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/manjunathalokesh43-a11y/ManjunathaLokesh43/main/manjunathalokesh-banner.png"> </div>
+
 <h3 align="center">A passionate DevOps Engineer from India I Work in Corporate IT Sector</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
